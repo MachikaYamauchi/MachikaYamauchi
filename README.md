@@ -2,7 +2,7 @@ Hello! 👋 I'm Machika Yamauchi.
 
 I am a Front-End Developer who likes listenig to your story and solving your problems.
 
-Currently, I am looking for full-time work as a Front-End Developer.
+Actively, I am looking for full-time work as a Front-End Developer.
 
 ## 💻 My Skills
 
