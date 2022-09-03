@@ -1,16 +1,31 @@
-### Hi there 👋
+Hello! 👋 I'm Machika Yamauchi.
 
-<!--
-**MachikaYamauchi/MachikaYamauchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Front-End Developer who likes listenig to your story and solving your problems.
 
-Here are some ideas to get you started:
+Currently, I am looking for full-time work as a Front-End Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 My Skills
+
+### Front-End
+
+Angular | JavaScript | TypeScript | jQuery | HTML5 | CSS3 | SCSS
+
+### Back-End
+
+Node.js | MySQL | Strapi(Headless CMS) | MongoDB | PHP
+
+### Tool / Ligrary
+
+Bootstrap | WordPress | DigitalOcean
+
+### Design
+
+Figma | Illustrator | Photoshop | Adobe XD
+
+### Team
+Agile / Scrum
+
+### Thirsty to Learn 
+React | GSAP
+
+[Linkedin](https://www.linkedin.com/in/machika-yamauchi/) | [My Portfolio](https://machikayamauchi.me/)
