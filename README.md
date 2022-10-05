@@ -8,7 +8,7 @@ Actively, I am looking for full-time work as a Front-End Developer.
 
 ### Front-End
 
-Angular | JavaScript | TypeScript | jQuery | HTML5 | CSS3 | SCSS
+Angular | React | JavaScript | TypeScript | jQuery | HTML5 | CSS3 | SCSS
 
 ### Back-End
 
